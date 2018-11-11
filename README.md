@@ -61,6 +61,7 @@ Other coins have been known to work with this implementation. I have tested with
 * Cubits v3
 * OpenSourceCoin
 * TekCoin
+* UOUPipe
 * Franko
 * Quark
 * Securecoin
